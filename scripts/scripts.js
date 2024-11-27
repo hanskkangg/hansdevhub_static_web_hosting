@@ -1,1 +1,1 @@
-/* JavaScript file for functionality
+/* JavaScript file for functionality*/

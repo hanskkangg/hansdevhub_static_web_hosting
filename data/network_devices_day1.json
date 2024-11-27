@@ -60,15 +60,19 @@
                 "Are software applications that filter traffic entering and exiting a host machine, like a PC."
             ]
         }
-    ],
-    "screenshots": [
-        {
-            "image": "images/network_topology1.jpg",
-            "description": "A visual representation of a network topology."
-        },
-        {
-            "image": "images/network_topology2.jpg",
-            "description": "A detailed view of network devices in a topology."
-        }
-    ]
+    ],"screenshots": [
+    {
+        "image": "https://hansdevhubimg.blob.core.windows.net/hansdevhub-images/network%20topology1.png?sp=r&st=2024-11-27T19:36:09Z&se=2024-11-30T03:36:09Z&spr=https&sv=2022-11-02&sr=c&sig=zY0vsgVsw2C%2BZQmGGYkUIL7ZtxwyNIj3taWbp1Ztk6s%3D",
+        "description": "A visual representation of a network topology."
+    },
+    {
+        "image": "https://hansdevhubimg.blob.core.windows.net/hansdevhub-images/network%20topology2.png?sp=r&st=2024-11-27T19:36:09Z&se=2024-11-30T03:36:09Z&spr=https&sv=2022-11-02&sr=c&sig=zY0vsgVsw2C%2BZQmGGYkUIL7ZtxwyNIj3taWbp1Ztk6s%3D",
+        "description": "A detailed view of network devices in a topology."
+    },
+    {
+        "image": "https://hansdevhubimg.blob.core.windows.net/hansdevhub-images/network%20topology3.png?sp=r&st=2024-11-27T19:36:09Z&se=2024-11-30T03:36:09Z&spr=https&sv=2022-11-02&sr=c&sig=zY0vsgVsw2C%2BZQmGGYkUIL7ZtxwyNIj3taWbp1Ztk6s%3D",
+        "description": "Another view of network devices in a topology."
+    }
+]
+
 }
