@@ -1,0 +1,74 @@
+{
+    "day": 1,
+    "topic": "Network Devices",
+    "description": "Notes on basic network devices and their functions.",
+    "sections": [
+        {
+            "title": "Network Topology",
+            "content": [
+                {
+                    "question": "What is a network?",
+                    "answer": "A computer network is a digital telecommunication network which allows nodes to share connections. A network allows nodes to share resources."
+                },
+                {
+                    "question": "What is a client?",
+                    "answer": "A client is a device that accesses a service made available by a server."
+                },
+                {
+                    "question": "What is a server?",
+                    "answer": "A server is a device that provides functions or services for clients."
+                }
+            ]
+        },
+        {
+            "title": "Switch",
+            "content": [
+                "You don’t connect end hosts like PCs or Servers directly to each other, you aggregate the connections to a device called Switch.",
+                "Switch have lots of interfaces for you to connect end hosts to.",
+                "Switch is used to forward traffic within a LAN (Local Area Network).",
+                "PC1 and PC2 that are connected to Switch1 can send data to each other via the switch; however, these switches cannot connect directly to the internet.",
+                "Switches have many network interfaces/ports for end hosts to connect to (usually 24+).",
+                "Do not provide connectivity between LANs or over the internet."
+            ]
+        },
+        {
+            "title": "Router",
+            "content": [
+                "Have fewer network interfaces than switches.",
+                "Are used to provide connectivity between different LANs.",
+                "Are therefore used to send data over the internet."
+            ]
+        },
+        {
+            "title": "Firewall",
+            "content": [
+                "Specialty network security devices that control network traffic entering and exiting your network.",
+                "Monitor and control network traffic based on configured rules.",
+                "Can be placed ‘inside’ the network or ‘outside the network’. Meaning the firewall can filter traffic before it reaches the router or after it has passed through the router.",
+                "Are known as ‘Next-generation Firewalls’ when they include more modern and advanced filtering capabilities."
+            ]
+        },
+        {
+            "title": "Network Firewall",
+            "content": [
+                "Are hardware devices that filter traffic between networks."
+            ]
+        },
+        {
+            "title": "Host-Based Firewall",
+            "content": [
+                "Are software applications that filter traffic entering and exiting a host machine, like a PC."
+            ]
+        }
+    ],
+    "screenshots": [
+        {
+            "image": "images/network_topology1.jpg",
+            "description": "A visual representation of a network topology."
+        },
+        {
+            "image": "images/network_topology2.jpg",
+            "description": "A detailed view of network devices in a topology."
+        }
+    ]
+}
